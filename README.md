@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Farhan Raza and I'm a SWE, from Patna, Bihar</p>
+<p data-importer="text" align="left">My name is Farhan Raza and I'm a currently a 3rd year cse student from Patna, Bihar</p>
 
 ###
 
