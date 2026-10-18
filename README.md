@@ -10,7 +10,6 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br> I'm currently learning ...<br> Goals: ...<br></p>
 
 ###
 
