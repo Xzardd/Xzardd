@@ -6,10 +6,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
-
-###
-
 
 ###
 
